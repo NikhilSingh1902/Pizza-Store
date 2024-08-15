@@ -8,7 +8,6 @@ import AddNewItem from './components/AddNewItem';
 import UpdateItem from './components/UpdateItem'; 
 import DeleteItem from './components/DeleteItem'; 
 import Contact from './components/Contact';
-// import Footer from './components/Footer';
 import './App.css';
 
 const App = () => (
@@ -26,7 +25,6 @@ const App = () => (
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
-      {/* <Footer /> */}
     </div>
   </Router>
 );
