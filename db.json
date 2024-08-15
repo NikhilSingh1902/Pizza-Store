@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "id": 1, "name": "Margherita", "price": 10, "description": "Classic Margherita pizza", "image": "pizza1.jpg" },
+    { "id": 2, "name": "Pepperoni", "price": 12, "description": "Pepperoni pizza with extra cheese", "image": "pizza2.jpg" },
+    { "id": 3, "name": "BBQ Chicken", "price": 14, "description": "Chicken with BBQ sauce and onions", "image": "pizza3.jpg" },
+    { "id": 4, "name": "Vegetarian", "price": 11, "description": "Loaded with fresh vegetables", "image": "pizza4.jpg" },
+    { "id": 5, "name": "Hawaiian", "price": 13, "description": "Ham and pineapple pizza", "image": "pizza5.jpg" },
+    { "id": 6, "name": "Four Cheese", "price": 15, "description": "A blend of four cheeses", "image": "pizza6.jpg" },
+    { "id": 7, "name": "Seafood Delight", "price": 16, "description": "Topped with shrimp and calamari", "image": "pizza7.jpg" },
+    { "id": 8, "name": "Spicy Sausage", "price": 13, "description": "Spicy sausage with a kick", "image": "pizza8.jpg" }
+  ]
+}
